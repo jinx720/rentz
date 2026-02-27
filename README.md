@@ -1,2 +1,2 @@
 # rentz
-custom torrent client build from scratch 
+custom torrent client built from scratch 
